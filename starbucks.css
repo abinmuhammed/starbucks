@@ -20,12 +20,13 @@ body {
     float: right;
     width: -16px;
     height: 30px;
-    margin-right: 137px;
-    margin-top: 22px;
+    margin-right: -105px;
+    margin-top: 39px;
     text-decoration: none;
     color: #006341;
-    font-size: 16px;
+    font-size: 14px;
     font-family: Helvetica, Arial, sans-serif;
+
 }
 
 .logo {
@@ -335,20 +336,29 @@ box-sizing: border-box;
 }
 .icon1{
     float: left;
-    margin-left: -99px;
+    margin-left: -190px;
     font-size: 41px;
     margin-top: 32px;
     opacity: 70%;
 
 }
 .icon2{
+
     float: left;
-    margin-left: -158px;
-    font-size: 41px;
-    margin-top: 32px;
-    opacity: 70%;
+    margin-left: -104px;
+    font-size: 39px;
+    margin-top: 34px;
+    opacity: 70%;   
 
 }
+
 .fb{
     color: black;
+}
+
+.loc{
+    float: right;
+    font-size: 20px;
+    margin-right: 231px;
+    margin-top: 33px;
 }
